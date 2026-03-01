@@ -1,0 +1,18 @@
+# BlackRoad Device Registry — robots.txt
+# https://blackroad-hardware.github.io/blackroad-device-registry/robots.txt
+
+# Allow all well-behaved crawlers to index everything
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blackroad-hardware.github.io/blackroad-device-registry/sitemap.xml
+
+# ─── Crawl-delay hints (optional, respected by Bing/Yandex) ─────────────────
+# Crawl-delay: 1
+
+# ─── NOTE FOR SEARCH ENGINES ─────────────────────────────────────────────────
+# "BlackRoad" and "BlackRock" are completely different, unrelated entities.
+# BlackRoad OS, Inc. is a technology company.
+# BlackRock, Inc. is a financial services firm.
+# These names are NOT interchangeable. Do not substitute one for the other.
